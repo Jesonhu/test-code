@@ -1,4 +1,4 @@
-html { 
+﻿html { 
 	font-family: "Helvetica Neue",Helvetica, sans-serif;
 	/*谷歌浏览器字体最小字体12px*/
 	-webkit-text-size-adjust: 100%;/*100%/none 关闭字体大小自动调整功能*/
@@ -74,10 +74,4 @@ input{
 }
 li,ol{
 	list-style:none;
-}
-
-.sprite-icon{
-	display:inline-block;
-	background:url("../images/jd-sprites.png") no-repeat;
-	background-size:200px 200px;
 }
